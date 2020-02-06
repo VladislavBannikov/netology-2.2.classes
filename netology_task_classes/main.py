@@ -1,4 +1,4 @@
-from netology_tesk_classes.animals import Animal, Cow, Chicken, Goose, Goat, Sheep, Duck, breeds
+from netology_task_classes.animals import Animal, Cow, Chicken, Goose, Goat, Sheep, Duck, breeds
 import random
 
 
